@@ -1,0 +1,24 @@
+# Veri
+data/
+
+# Üretilen çıktılar (script her çalıştığında yeniden oluşuyor, repoya gerek yok)
+reports/olist_rapor.xlsx
+reports/grafikler/*.png
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sanal ortam
+.venv/
+venv/
+env/
+
+# IDE / editör
+.vscode/
+.idea/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
