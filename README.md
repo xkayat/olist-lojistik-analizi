@@ -60,7 +60,7 @@ Analiz çıktısı olarak üretilen `olist_rapor.xlsx` dosyası; yönetici özet
 │   └── olist_rapor.xlsx
 ├── requirements.txt
 └── README.md
-
+```
 ## ⚙️ Kurulum ve Çalıştırma
 
 1. Veri setini indir: [Olist Brazilian E-Commerce Dataset (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
