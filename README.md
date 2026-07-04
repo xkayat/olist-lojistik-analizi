@@ -46,6 +46,7 @@ Analiz çıktısı olarak üretilen `olist_rapor.xlsx` dosyası; yönetici özet
 - seaborn / matplotlib
 
 ## 📂 Proje Yapısı 
+```text
 ├── src/
 │   └── gecikme_analiz.py
 ├── data/              (veri seti buraya indirilir, repoya dahil değil)
